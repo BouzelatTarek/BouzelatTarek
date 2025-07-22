@@ -5,7 +5,7 @@
 ---
 
 🎓 **Education**  
-- **Master’s in Data Science for Societal Challenges**  
+- **Ongoing Master’s in Data Science for Societal Challenges (2024/2026)**  
   University of Tours (Blois campus), France  
 - **Master 1 in Information Systems and Decision**  
   University of Badji Mokhtar – Annaba, Algeria  
@@ -43,16 +43,6 @@ Building a career at the intersection of data engineering, web development, data
 
 🌍 **Languages**  
 - English | French | Arabic
-
----
-
-## 🚀 Featured Projects
-
-- [Knowledge Graph Generator](#)  
-- [Custom ETL Pipelines](#)  
-- [Business Intelligence Dashboards](#)  
-
-*Check my pinned repositories for more!*
 
 ---
 
