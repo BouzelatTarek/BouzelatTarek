@@ -1,6 +1,6 @@
 # 👋 Salem, I'm Tarek Bouzelat
 
-### Data Engineering | Semantic Web | Business Intelligence
+### Data Engineering | Semantic Web 
 
 ---
 
@@ -14,14 +14,14 @@
 
 💼 **Current Role**  
 **Developer / Data Analyst (Work-Study)** at [Sparna](https://www.sparna.fr)  
-- Semantic web & business intelligence projects  
+- Semantic web projects  
 - Data extraction, transformation, and integration (Excel, RDF: `.ttl`, `.trig`, `.nquads`)  
 - Generation of knowledge graphs  
 - Data quality checks (SPARQL, statistical tools)  
 - Tailored solutions for client requirements  
 
 🌱 **Career Goal:**  
-Building a career at the intersection of data engineering, web development, data quality, and BI.
+Building a career at the intersection of data engineering, web development and data quality.
 
 ---
 
