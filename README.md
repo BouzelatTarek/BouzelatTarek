@@ -47,6 +47,6 @@ Building a career at the intersection of data engineering, web development and d
 ---
 
 **Let’s connect!**  
-[LinkedIn](https://www.linkedin.com/in/tarek-bouzelat/) | [Email](mailto:tarekbouzelat@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tarek-bouzelat/) | [Email](mailto:tarek.bouzelat.pro@gmail.com)
 
 ---
