@@ -1,4 +1,4 @@
-# 👋 Salem, I'm Tarek Bouzelat
+# 👋 Hello, I'm Tarek Bouzelat
 
 ### Data Engineering | Semantic Web 
 
