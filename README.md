@@ -13,7 +13,7 @@
 ---
 
 💼 **Current Role**  
-**Developer / Data Analyst (Work-Study)** at [Sparna](https://www.sparna.fr)  
+**Junior Developer / Data Analyst & Engineer (Work-Study)** at [Sparna](https://www.sparna.fr)  
 - Semantic web projects  
 - Data extraction, transformation, and integration (Excel, RDF: `.ttl`, `.trig`, `.nquads`)  
 - Generation of knowledge graphs  
@@ -26,10 +26,12 @@ Building a career at the intersection of data engineering, web development and d
 ---
 
 🛠️ **Skills & Tools**  
-- **Programming:** Python, Talend, SPARQL
-- **Data:** RDF formats, ETL workflows, advanced Excel
-- **Visualization:** Data visualization, UX/UI, graph design, color theory
-- **Collaboration:** GitHub, Agile teamwork
+- **Programming:** Python, TypeScript, R, Java knowledge.
+- **Quering:** SPARQL, SQL, NoSQL.
+- **Software:** Talend, Tableau, PowerBI, (Informatica & DBT in progress).
+- **Data:** RDF formats, ETL workflows, Excel.
+- **Visualization:** Data visualization, UX/UI, graph design, color theory.
+- **Collaboration:** GitHub, Agile teamwork.
 
 ---
 
