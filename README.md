@@ -5,9 +5,9 @@
 ---
 
 🎓 **Education**  
-- **Ongoing Master’s in Data Science for Societal Challenges (2024/2026)**  
+- **Master 2 in Data Science for Societal Challenges (2024/2026)**  
   University of Tours (Blois campus), France  
-- **Master 1 in Information Systems and Decision**  
+- **Master 1 in Information Systems and Decision (2022/2023)**  
   University of Badji Mokhtar – Annaba, Algeria  
 
 ---
