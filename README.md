@@ -13,22 +13,22 @@
 ---
 
 💼 **Current Role**  
-**Junior Developer / Data Analyst & Engineer (Work-Study)** at [Sparna](https://www.sparna.fr)  
+**Knowledge Graph & IAG engineer** at [Sparna](https://www.sparna.fr)  
 - Semantic web projects  
-- Data extraction, transformation, and integration (Excel, RDF: `.ttl`, `.trig`, `.nquads`)  
+- Data extraction, transformation, and integration (Excel, RDF: `.ttl`, `.trig`, `.nquads`, ...)  
 - Generation of knowledge graphs  
 - Data quality checks (SPARQL, statistical tools)  
 - Tailored solutions for client requirements  
 
 🌱 **Career Goal:**  
-Building a career at the intersection of data engineering, web development and data quality.
+Building a career at the intersection of data engineering/analysis, knowledge graphs and AI.
 
 ---
 
 🛠️ **Skills & Tools**  
 - **Programming:** Python, TypeScript, R, Java knowledge.
 - **Quering:** SPARQL, SQL, NoSQL.
-- **Software:** Talend, Tableau, PowerBI, (Informatica & DBT in progress).
+- **Software:** SHACL Play!, Talend, Tableau, PowerBI.
 - **Data:** RDF formats, ETL workflows, Excel.
 - **Visualization:** Data visualization, UX/UI, graph design, color theory.
 - **Collaboration:** GitHub, Agile teamwork.
@@ -39,7 +39,7 @@ Building a career at the intersection of data engineering, web development and d
 - Knowledge graphs & semantic web  
 - Automated data workflows  
 - Data quality & integration  
-- Visual communication in data science  
+- Visual communication in data science projects (from a sequence of 1 and 0 to decision). 
 
 ---
 
@@ -49,6 +49,6 @@ Building a career at the intersection of data engineering, web development and d
 ---
 
 **Let’s connect!**  
-[LinkedIn](https://www.linkedin.com/in/tarek-bouzelat/) | [Email](mailto:tarek.bouzelat.pro@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tarek-bouzelat/) | [Email](mailto:tarek.bouzelat@sparna.fr)
 
 ---
